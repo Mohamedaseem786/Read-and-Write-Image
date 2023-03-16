@@ -74,22 +74,26 @@ cv2.waitKey(0)
 ### ii)Write the image
 
 <br>
-![](nature.jpg)
+![](true.jpg)
 <br>
 
 ### iii)Shape of the Image
 
 <br>
-![](nature.jpg)
+
+![](res.jpg)
 <br>
 
 ### iv)Access rows and columns
 <br>
+
+![](2.jpg)
 <br>
 
 ### v)Cut and paste portion of image
 <br>
-![](nature.jpg)
+
+![](3.jpg)
 <br>
 
 ## Result:
