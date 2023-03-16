@@ -23,13 +23,13 @@ End the program and close the output image windows.
 ### Register Number: 
 i) #To Read,display the image
 ```
-image=cv2.imread("pain.jpg",1)
+image=cv2.imread("nature.jpg",1)
 cv2_imshow(image)  
 
 ```
 ii) #To write the image
 ```
-image = cv2.imread("pain.jpg",-1)
+image = cv2.imread("nature.jpg",-1)
 cv2.imwrite("pain.jpg",image)
 
 
@@ -53,7 +53,7 @@ cv2.waitKey(0)
 ```
 v) #To cut and paste portion of image
 ```python3
-image= cv2.imread('bike.jpg',-1)
+image= cv2.imread('pranav.jpg',-1)
 new = image[200:450,200:450]
 image[150:400,150:400] = new
 cv2_imshow(image)
@@ -67,16 +67,20 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
+
+![](nature.jpg)
 <br>
 
 ### ii)Write the image
 
 <br>
+![](nature.jpg)
 <br>
 
 ### iii)Shape of the Image
 
 <br>
+![](nature.jpg)
 <br>
 
 ### iv)Access rows and columns
@@ -85,6 +89,7 @@ cv2.waitKey(0)
 
 ### v)Cut and paste portion of image
 <br>
+![](nature.jpg)
 <br>
 
 ## Result:
