@@ -96,6 +96,27 @@ cv2.waitKey(0)
 
 ![](3.png)
 <br>
+<br><br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br><br>
+
+
+<br>
+
+
 
 
 
