@@ -75,7 +75,7 @@ cv2.waitKey(0)
 
 <br>
 
-![](true.jpg)
+![](true.png)
 <br>
 
 ### iii)Shape of the Image
@@ -88,13 +88,13 @@ cv2.waitKey(0)
 ### iv)Access rows and columns
 <br>
 
-![](2.jpg)
+![](2.png)
 <br>
 
 ### v)Cut and paste portion of image
 <br>
 
-![](3.jpg)
+![](3.png)
 <br>
 
 ## Result:
