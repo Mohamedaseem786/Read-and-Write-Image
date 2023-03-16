@@ -97,6 +97,30 @@ cv2.waitKey(0)
 ![](3.png)
 <br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
 
