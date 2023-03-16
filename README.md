@@ -74,6 +74,7 @@ cv2.waitKey(0)
 ### ii)Write the image
 
 <br>
+
 ![](true.jpg)
 <br>
 
